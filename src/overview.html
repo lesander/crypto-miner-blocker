@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/overview.css">
+  </head>
+  <body>
+    <div class="header">
+      Crypto Miner Blocker <span id="version">0.0.0</span>
+    </div>
+    <div class="stats">
+      Blocked Crypto Miners <strong id="stat-block-count">0</strong> times.
+      <br>
+      <a href="history.html" target="_blank">Show History</a>
+    </div>
+    <div class="settings">
+      <ul>
+        <li><input type="checkbox" id="blockerEnabled"><label for="blockerEnabled">Enable Blocker</label></li>
+        <li><input type="checkbox" id="notificationsEnabled"><label for="notificationsEnabled">Show Notifications</label></li>
+        <li><input type="checkbox" id="statisticsEnabled"><label for="statisticsEnabled">Count Blocks</label></li>
+      </ul>
+    </div>
+    <script src="js/overview.js"></script>
+  </body>
+</html>
