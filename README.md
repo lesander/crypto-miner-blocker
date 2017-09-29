@@ -24,7 +24,7 @@ Recently ThePirateBay.org and Showtime.com were caught experimenting with [CoinH
 
 > We're a bit saddened to see that some of our customers integrate Coinhive into their pages without disclosing to their users what's going on, let alone asking for their permission. We believe there's so much more potential for our solution, but we have to be respectful to our end users. [...]
 >
--- CoinHive
+> -- CoinHive
 
 A webmaster following the instructions of CoinHive's [documentation](https://coin-hive.com/documentation) will by default end up consuming up to 70% of every visitor's CPU until they close the website. While this might not be a problem for desktops engergy-wise, it will drain the battery of laptops and smartphones. And we haven't even talked about the CPU usage slowing the machine down, fan noise, heat and a shorter hardware life.
 
