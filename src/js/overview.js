@@ -44,5 +44,5 @@ $elSettings.addEventListener('click', function (event) {
 
 // Open the project website on click of the header.
 $elHeader.addEventListener('click', function () {
-  window.open('https://git.io/coinhive-blocker')
+  window.open('https://git.io/crypto-miner-blocker')
 })
