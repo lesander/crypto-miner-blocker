@@ -6,7 +6,7 @@
   <p align="center">
     This Google Chrome extension automatically blocks known crypto web mining scripts.
     <br>
-    <a href="#"><strong>Install for Google Chrome &raquo;</strong></a>
+    <a href="https://chrome.google.com/webstore/detail/crypto-miner-blocker/fekkecoifalagdiibmfnmjfmgmpblogb?utm_source=github"><strong>Install for Google Chrome &raquo;</strong></a>
     <br>
     <br>
     <a href="https://github.com/lesander/monero-blocker/archive/master.zip">Download Source</a>
