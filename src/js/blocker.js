@@ -60,7 +60,10 @@ BlackList = [
   '*://*.jsecoin.com/*',
 
   // Various scripts
-  '*://*/*javascriptminer*.js*'
+  '*://*/*javascriptminer*.js*',
+
+  // CryptoLoot
+  'wss://*.crypto-loot.com/*'
 ]
 
 /**
