@@ -62,6 +62,11 @@ BlackList = [
   // CryptoLoot
   'wss://*.crypto-loot.com/*',
   
+  // Minr
+  '*://*.host.d-ns.ga/*',
+  'wss://*.host.d-ns.ga/*',
+  'ws://*.host.d-ns.ga/*',
+  
   // Others
   '*://*.reasedoper.pw/*',
   '*://*.mataharirama.xyz/*',
