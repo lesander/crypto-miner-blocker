@@ -59,11 +59,58 @@ BlackList = [
   // JSECoin
   '*://*.jsecoin.com/*',
 
-  // Various scripts
-  '*://*/*javascriptminer*.js*',
-
   // CryptoLoot
-  'wss://*.crypto-loot.com/*'
+  'wss://*.crypto-loot.com/*',
+  
+  // Minr
+  '*://*.host.d-ns.ga/*',
+  'wss://*.host.d-ns.ga/*',
+  'ws://*.host.d-ns.ga/*',
+  
+  // Others
+  '*://*.reasedoper.pw/*',
+  '*://*.mataharirama.xyz/*',
+  '*://*.listat.biz/*',
+  '*://*.lmodr.biz/*',
+  '*://*.minecrunch.co/*',
+  '*://*.minemytraffic.com/*',
+  '*://*.crypto-loot.com/*',
+  'wss://*.crypto-loot.com/*',
+  '*://*.2giga.link/*',
+  'wss://*.2giga.link/*',
+  '*://*.ppoi.org/*',
+  '*://*.coinerra.com/*',
+  '*://*.coin-have.com/*',
+  '*://*.kisshentai.net/*',
+  '*://*.joyreactor.cc/ws/ch/*',
+  '*://*.ppoi.org/lib/*',
+  '*://*.coinnebula.com/lib/*',
+  '*://*.afminer.com/code/*',
+  '*://*.coinblind.com/lib/*',
+  '*://*.webmine.cz/miner*',
+  '*://*.papoto.com/lib/*',
+  
+  // Specific scripts
+  '*://*/*javascriptminer*.js*',
+  '*://*/*miner.js*',
+  '*://*/*miner.min.js*',
+  '*://*/*xmr.js*',
+  '*://*/*xmr.min.js*',
+  '*://*/*coinlab.js*',
+  '*://*/*c-hive.js*',
+  '*://*/*cloudcoins*.js*',
+  '*://*/*miner.js*',
+  
+  // Specific script hosts
+  '*://miner.pr0gramm.com/xmr.min.js*',
+  '*://*.kiwifarms.net/js/Jawsh/xmr/xmr.min.js*',
+  '*://anime.reactor.cc/js/ch/cryptonight.wasm*',
+  '*://cdn.cloudcoins.co/javascript/cloudcoins.min.js*',
+  '*://*.kissdoujin.com/Content/js/c-hive.js*',
+  '*://*.coinlab.biz/lib/coinlab.js*',
+  '*://*.monerominer.rocks/scripts/miner.js*',
+  '*://*.monerominer.rocks/miner.php*',
+  '*://*.minero.pw/miner.min.js*'
 ]
 
 /**
