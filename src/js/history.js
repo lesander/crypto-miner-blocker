@@ -2,7 +2,7 @@
  * Crypto Miner Blocker.
  * https://git.io/crypto-miner-blocker
  * Licensed under the MIT License
- * Copyright (c) 2017 Sander Laarhoven All Rights Reserved.
+ * Copyright (c) 2017 All Rights Reserved.
  */
 
 $elHistory = document.getElementsByClassName('history')[0]
